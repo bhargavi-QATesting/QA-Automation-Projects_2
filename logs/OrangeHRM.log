@@ -1,0 +1,413 @@
+2026-11-1917:57:57:INFO:************TestAdminLogin************
+2026-11-1917:57:57:INFO:************Verification of Title************
+2026-11-1917:57:59:INFO:************Verification of Title title matched************
+2026-11-1917:58:00:INFO:************test_valid_admin_login started************
+2026-11-1917:58:18:INFO:************Dashboard Text Found************
+2026-11-1917:58:20:INFO:************test_invalid_admin_login started************
+2026-11-1917:58:33:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:18:00:INFO:************TestAdminLogin************
+2026-11-1919:18:00:INFO:************Verification of Title************
+2026-11-1919:18:03:INFO:************Verification of Title title matched************
+2026-11-1919:18:04:INFO:************test_valid_admin_login started************
+2026-11-1919:18:23:INFO:************Dashboard Text Found************
+2026-11-1919:18:25:INFO:************test_invalid_admin_login started************
+2026-11-1919:18:40:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:22:33:INFO:************TestAdminLogin************
+2026-11-1919:22:33:INFO:************Verification of Title************
+2026-11-1919:22:36:INFO:************Verification of Title title matched************
+2026-11-1919:22:53:INFO:************test_valid_admin_login started************
+2026-11-1919:23:12:INFO:************Dashboard Text Found************
+2026-11-1919:23:21:INFO:************test_invalid_admin_login started************
+2026-11-1919:23:35:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:40:17:INFO:************TestAdminLogin************
+2026-11-1919:40:17:INFO:************Verification of Title************
+2026-11-1919:40:19:INFO:************Verification of Title title matched************
+2026-11-1919:40:20:INFO:************test_valid_admin_login started************
+2026-11-1919:40:39:INFO:************Dashboard Text Found************
+2026-11-1919:40:40:INFO:************test_invalid_admin_login started************
+2026-11-1919:40:53:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:41:04:INFO:************TestAdminLogin************
+2026-11-1919:41:04:INFO:************Verification of Title************
+2026-11-1919:41:06:INFO:************Verification of Title title matched************
+2026-11-1919:41:08:INFO:************test_valid_admin_login started************
+2026-11-1919:41:27:INFO:************Dashboard Text Found************
+2026-11-1919:41:28:INFO:************test_invalid_admin_login started************
+2026-11-1919:41:42:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:42:10:INFO:************TestAdminLogin************
+2026-11-1919:42:10:INFO:************Verification of Title************
+2026-11-1919:42:13:INFO:************Verification of Title title matched************
+2026-11-1919:42:22:INFO:************test_valid_admin_login started************
+2026-11-1919:42:41:INFO:************Dashboard Text Found************
+2026-11-1919:42:50:INFO:************test_invalid_admin_login started************
+2026-11-1919:43:05:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:43:55:INFO:************TestAdminLogin************
+2026-11-1919:43:55:INFO:************Verification of Title************
+2026-11-1919:43:58:INFO:************Verification of Title title matched************
+2026-11-1919:44:10:INFO:************test_valid_admin_login started************
+2026-11-1919:44:29:INFO:************Dashboard Text Found************
+2026-11-1919:44:38:INFO:************test_invalid_admin_login started************
+2026-11-1919:44:53:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:51:00:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a string at line 19 column 22. Using empty metadata
+2026-11-1919:51:00:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a string at line 113 column 7. Using empty metadata
+2026-11-1919:51:01:INFO:************test_invalid_admin_login started************
+2026-11-1919:51:01:INFO:************test_valid_admin_login started************
+2026-11-1919:51:01:INFO:************TestAdminLogin************
+2026-11-1919:51:01:INFO:************Verification of Title************
+2026-11-1919:51:06:INFO:************Verification of Title title matched************
+2026-11-1919:51:17:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:51:23:INFO:************Dashboard Text Found************
+2026-11-1919:53:00:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a string at line 4 column 9. Using empty metadata
+2026-11-1919:53:00:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing an object at line 1 column 1. Using empty metadata
+2026-11-1919:53:00:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a list at line 13 column 3. Using empty metadata
+2026-11-1919:53:11:INFO:************test_invalid_admin_login started************
+2026-11-1919:53:22:INFO:************test_valid_admin_login started************
+2026-11-1919:53:23:INFO:************TestAdminLogin************
+2026-11-1919:53:23:INFO:************Verification of Title************
+2026-11-1919:53:26:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:53:28:INFO:************Verification of Title title matched************
+2026-11-1919:53:43:INFO:************Dashboard Text Found************
+2026-11-1919:54:19:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a value at line 1 column 0. Using empty metadata
+2026-11-1919:54:21:INFO:************test_invalid_admin_login started************
+2026-11-1919:54:21:INFO:************TestAdminLogin************
+2026-11-1919:54:21:INFO:************Verification of Title************
+2026-11-1919:54:21:INFO:************test_valid_admin_login started************
+2026-11-1919:54:23:INFO:************Verification of Title title matched************
+2026-11-1919:54:35:INFO:************test_invalid_admin_login error message matched************
+2026-11-1919:54:40:INFO:************Dashboard Text Found************
+2026-11-1919:55:13:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: expected value at line 23 column 3. Using empty metadata
+2026-11-1919:55:14:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a value at line 26 column 6. Using empty metadata
+2026-11-1919:55:15:INFO:************TestAdminLogin************
+2026-11-1919:55:15:INFO:************Verification of Title************
+2026-11-1919:55:15:INFO:************test_valid_admin_login started************
+2026-11-1919:55:15:INFO:************test_invalid_admin_login started************
+2026-11-1919:55:21:INFO:************Verification of Title title matched************
+2026-11-1919:55:38:INFO:************Dashboard Text Found************
+2026-11-1919:55:39:INFO:************test_invalid_admin_login error message matched************
+2026-11-2010:20:30:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a string at line 8 column 13. Using empty metadata
+
+2026-11-2010:20:31:INFO:************TestAdminLogin************
+2026-11-2010:20:31:INFO:************Verification of Title************
+2026-11-2010:20:31:INFO:************test_valid_admin_login started************
+2026-11-2010:20:31:INFO:************test_invalid_admin_login started************
+2026-11-2010:20:38:INFO:************Verification of Title title matched************
+2026-11-2010:20:50:INFO:************test_invalid_admin_login error message matched************
+2026-11-2010:20:52:INFO:************Dashboard Text Found************
+2026-11-2010:35:32:INFO:************test_invalid_admin_login started************
+2026-11-2010:35:32:INFO:************test_valid_admin_login started************
+2026-11-2010:35:32:INFO:************TestAdminLogin************
+2026-11-2010:35:32:INFO:************Verification of Title************
+2026-11-2010:35:35:INFO:************Verification of Title title matched************
+2026-11-2010:35:47:INFO:************test_invalid_admin_login error message matched************
+2026-11-2010:35:52:INFO:************Dashboard Text Found************
+2026-11-2010:37:56:WARNING:Metadata file C:\Users\Jagad\.cache\selenium\se-metadata.json cannot be parsed: expected `,` or `}` at line 26 column 25. Using empty metadata
+2026-11-2010:37:57:INFO:************TestAdminLogin************
+2026-11-2010:37:57:INFO:************Verification of Title************
+2026-11-2010:37:57:INFO:************test_valid_admin_login started************
+2026-11-2010:37:57:INFO:************test_invalid_admin_login started************
+2026-11-2010:38:02:INFO:************Verification of Title title matched************
+2026-11-2010:38:13:INFO:************test_invalid_admin_login error message matched************
+2026-11-2010:38:18:INFO:************Dashboard Text Found************
+2026-11-2012:25:38:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:28:10:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:28:27:INFO:test data is passed
+2026-11-2012:28:32:INFO:test data is NOT passed
+2026-11-2012:28:38:INFO:test data is NOT passed
+2026-11-2012:28:38:INFO:Test admin data driven test is NOT passed
+2026-11-2012:34:14:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:35:26:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:36:44:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:37:27:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:41:33:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2012:41:51:INFO:test data is passed
+2026-11-2013:13:07:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:13:28:INFO:test data is passed
+2026-11-2013:20:53:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:21:25:INFO:test data is passed
+2026-11-2013:31:48:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:32:03:INFO:test data is passed
+2026-11-2013:32:12:INFO:test data is NOT passed
+2026-11-2013:32:15:INFO:test data is NOT passed
+2026-11-2013:32:15:INFO:Test admin data driven test is NOT passed
+2026-11-2013:37:50:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:38:07:INFO:test data is passed
+2026-11-2013:38:17:INFO:test data is NOT passed
+2026-11-2013:38:21:INFO:test data is NOT passed
+2026-11-2013:38:21:INFO:Test admin data driven test is NOT passed
+2026-11-2013:39:45:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:40:07:INFO:test data is passed
+2026-11-2013:40:22:INFO:test data is NOT passed
+2026-11-2013:40:26:INFO:test data is NOT passed
+2026-11-2013:40:26:INFO:Test admin data driven test is NOT passed
+2026-11-2013:45:49:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:46:05:INFO:test data is passed
+2026-11-2013:46:15:INFO:test data is NOT passed
+2026-11-2013:46:19:INFO:test data is NOT passed
+2026-11-2013:46:19:INFO:Test admin data driven test is NOT passed
+2026-11-2013:57:23:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2013:57:38:INFO:test data is passed
+2026-11-2013:57:55:INFO:test data is passed
+2026-11-2013:58:08:INFO:test data is passed
+2026-11-2013:58:08:INFO:Test admin data driven test is passed
+2026-11-2014:09:33:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2014:11:39:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2014:11:55:INFO:test data is passed
+2026-11-2014:12:11:INFO:test data is passed
+2026-11-2014:12:25:INFO:test data is passed
+2026-11-2014:12:25:INFO:Test admin data driven test is passed
+2026-11-2017:09:12:INFO:************test_valid_admin_login_data_driven started************
+2026-11-2017:09:30:INFO:test data is passed
+2026-11-2017:09:49:INFO:test data is passed
+2026-11-2017:10:03:INFO:test data is passed
+2026-11-2017:10:03:INFO:Test admin data driven test is passed
+2026-11-2019:14:23:INFO:************New Customer started**********
+2026-11-2019:14:28:INFO:************Login completed**********
+2026-11-2019:14:28:INFO:***********starting add customer test***********
+2026-11-2019:18:35:INFO:************New Customer started**********
+2026-11-2019:18:39:INFO:************Login completed**********
+2026-11-2019:18:39:INFO:***********starting add customer test***********
+2026-11-2019:19:05:INFO:************New Customer started**********
+2026-11-2019:19:10:INFO:************Login completed**********
+2026-11-2019:19:15:INFO:***********starting add customer test***********
+2026-11-2019:21:17:INFO:************New Customer started**********
+2026-11-2019:21:21:INFO:************Login completed**********
+2026-11-2019:21:26:INFO:***********starting add customer test***********
+2026-11-2019:28:04:INFO:************New Customer started**********
+2026-11-2019:28:08:INFO:************Login completed**********
+2026-11-2019:28:13:INFO:***********starting add customer test***********
+2026-11-2019:28:15:INFO:***********Add new user test***********
+2026-11-2019:37:08:INFO:************New Customer started**********
+2026-11-2019:37:13:INFO:************Login completed**********
+2026-11-2019:37:18:INFO:***********starting add customer test***********
+2026-11-2019:37:19:INFO:***********Add new user test***********
+2026-11-2019:39:47:INFO:************New Customer started**********
+2026-11-2019:39:57:INFO:************Login completed**********
+2026-11-2019:40:02:INFO:***********starting add customer test***********
+2026-11-2019:40:11:INFO:***********Add new user test***********
+2026-11-2019:52:45:INFO:************New Customer started**********
+2026-11-2019:52:49:INFO:************Login completed**********
+2026-11-2019:52:54:INFO:***********starting add customer test***********
+2026-11-2019:52:56:INFO:***********Add new user test***********
+2026-11-2020:01:49:INFO:************New Customer started**********
+2026-11-2020:01:53:INFO:************Login completed**********
+2026-11-2020:01:58:INFO:***********starting add customer test***********
+2026-11-2020:02:00:INFO:***********Add new user test***********
+2026-11-2020:02:31:INFO:************New Customer started**********
+2026-11-2020:02:35:INFO:************Login completed**********
+2026-11-2020:02:40:INFO:***********starting add customer test***********
+2026-11-2020:02:42:INFO:***********Add new user test***********
+2026-11-2020:04:20:INFO:************New Customer started**********
+2026-11-2020:04:23:INFO:************Login completed**********
+2026-11-2020:04:28:INFO:***********starting add customer test***********
+2026-11-2020:04:30:INFO:***********Add new user test***********
+2026-11-2020:06:32:INFO:************New Customer started**********
+2026-11-2020:06:36:INFO:************Login completed**********
+2026-11-2020:06:41:INFO:***********starting add customer test***********
+2026-11-2020:06:43:INFO:***********Add new user test***********
+2026-11-2020:08:22:INFO:************New Customer started**********
+2026-11-2020:08:29:INFO:************Login completed**********
+2026-11-2020:08:34:INFO:***********starting add customer test***********
+2026-11-2020:08:35:INFO:***********Add new user test***********
+2026-11-2020:09:49:INFO:************New Customer started**********
+2026-11-2020:09:56:INFO:************Login completed**********
+2026-11-2020:10:01:INFO:***********starting add customer test***********
+2026-11-2020:10:06:INFO:***********Add new user test***********
+2026-11-2020:14:06:INFO:************New Customer started**********
+2026-11-2020:14:10:INFO:************Login completed**********
+2026-11-2020:14:15:INFO:***********starting add customer test***********
+2026-11-2020:14:17:INFO:***********Add new user test***********
+2026-11-2020:18:36:INFO:************New Customer started**********
+2026-11-2020:18:40:INFO:************Login completed**********
+2026-11-2020:18:45:INFO:***********starting add customer test***********
+2026-11-2020:18:47:INFO:***********Add new user test***********
+2026-11-2020:19:21:INFO:************New Customer started**********
+2026-11-2020:19:25:INFO:************Login completed**********
+2026-11-2020:19:30:INFO:***********starting add customer test***********
+2026-11-2020:19:33:INFO:***********Add new user test***********
+2026-11-2020:20:39:INFO:************New Customer started**********
+2026-11-2020:20:44:INFO:************Login completed**********
+2026-11-2020:20:49:INFO:***********starting add customer test***********
+2026-11-2020:20:50:INFO:***********Add new user test***********
+2026-11-2020:23:39:INFO:************New Customer started**********
+2026-11-2020:23:50:INFO:************Login completed**********
+2026-11-2020:23:55:INFO:***********starting add customer test***********
+2026-11-2020:23:57:INFO:***********Add new user test***********
+2026-11-2020:24:22:INFO:************New Customer started**********
+2026-11-2020:24:27:INFO:************Login completed**********
+2026-11-2020:24:32:INFO:***********starting add customer test***********
+2026-11-2020:24:34:INFO:***********Add new user test***********
+2026-11-2020:25:19:INFO:************New Customer started**********
+2026-11-2020:25:24:INFO:************Login completed**********
+2026-11-2020:25:29:INFO:***********starting add customer test***********
+2026-11-2020:25:30:INFO:***********Add new user test***********
+2026-11-2020:25:50:INFO:************New Customer started**********
+2026-11-2020:25:54:INFO:************Login completed**********
+2026-11-2020:25:59:INFO:***********starting add customer test***********
+2026-11-2020:26:01:INFO:***********Add new user test***********
+2026-11-2020:37:44:INFO:************New Customer started**********
+2026-11-2020:37:48:INFO:************Login completed**********
+2026-11-2020:37:53:INFO:***********starting add customer test***********
+2026-11-2020:39:42:INFO:************New Customer started**********
+2026-11-2020:39:49:INFO:************Login completed**********
+2026-11-2020:39:54:INFO:***********starting add customer test***********
+2026-11-2020:40:45:INFO:************New Customer started**********
+2026-11-2020:40:55:INFO:************Login completed**********
+2026-11-2020:41:00:INFO:***********starting add customer test***********
+2026-11-2020:43:52:INFO:************New Customer started**********
+2026-11-2020:43:56:INFO:************Login completed**********
+2026-11-2020:44:01:INFO:***********starting add customer test***********
+2026-11-2021:57:39:INFO:********Search user with username started**********
+2026-11-2021:57:58:INFO:************Login completed**********
+2026-11-2021:58:03:INFO:***********starting add customer test***********
+2026-11-2022:00:59:INFO:********Search user with username started**********
+2026-11-2022:01:17:INFO:************Login completed**********
+2026-11-2022:01:22:INFO:***********starting add customer test***********
+2026-11-2022:09:05:INFO:********Search user with username started**********
+2026-11-2022:09:32:INFO:************Login completed**********
+2026-11-2022:09:37:INFO:***********starting add customer test***********
+2026-11-2022:14:02:INFO:********Search user with username started**********
+2026-11-2022:14:33:INFO:************Login completed**********
+2026-11-2022:14:38:INFO:***********starting add customer test***********
+2026-11-2022:15:28:INFO:********Search user with username started**********
+2026-11-2022:15:52:INFO:************Login completed**********
+2026-11-2022:15:57:INFO:***********starting add customer test***********
+2026-11-2022:16:01:INFO:******** Test Failed ********
+2026-11-2118:09:19:INFO:********Search user with username started**********
+2026-11-2118:09:34:INFO:************Login completed**********
+2026-11-2118:09:39:INFO:***********starting add customer test***********
+2026-11-2118:09:44:INFO:******** Test Failed ********
+2026-11-2118:12:53:INFO:********Search user with username started**********
+2026-11-2118:13:04:INFO:************Login completed**********
+2026-11-2118:13:09:INFO:***********starting add customer test***********
+2026-11-2118:13:14:INFO:******** Test Failed ********
+2026-11-2118:14:14:INFO:********Search user with username started**********
+2026-11-2118:14:25:INFO:************Login completed**********
+2026-11-2118:14:30:INFO:***********starting add customer test***********
+2026-11-2118:14:34:INFO:******** Test Passed ********
+2026-11-2118:26:35:INFO:********Search user with username started**********
+2026-11-2118:26:44:INFO:************Login completed**********
+2026-11-2118:26:49:INFO:***********starting add customer test***********
+2026-11-2118:26:53:INFO:******** Test Passed ********
+2026-11-2118:26:57:INFO:******** Search User By Employee Name Started ********
+2026-11-2118:27:06:INFO:******** Login Successful ********
+2026-11-2118:32:07:INFO:********Search user with username started**********
+2026-11-2118:32:16:INFO:************Login completed**********
+2026-11-2118:32:21:INFO:***********starting add customer test***********
+2026-11-2118:32:24:INFO:******** Test Passed ********
+2026-11-2118:32:28:INFO:******** Search User By Employee Name Started ********
+2026-11-2118:32:37:INFO:******** Login Successful ********
+2026-11-2118:32:44:INFO:******** Test Passed ********
+2026-11-2118:46:31:INFO:********Search user with username started**********
+2026-11-2118:46:40:INFO:************Login completed**********
+2026-11-2118:46:45:INFO:***********starting add customer test***********
+2026-11-2118:46:49:INFO:******** Test Passed ********
+2026-11-2118:46:53:INFO:******** Search User By Employee Name Started ********
+2026-11-2118:47:02:INFO:******** Login Successful ********
+2026-11-2118:47:09:INFO:******** Test Passed ********
+2026-11-2118:50:59:INFO:********Search user with username started**********
+2026-11-2118:53:13:INFO:******** Search User By Employee Name Started ********
+2026-11-2118:53:23:INFO:******** Login Successful ********
+2026-11-2118:53:30:INFO:******** Test Passed ********
+2026-11-2118:53:59:INFO:********Search user with username started**********
+2026-11-2118:54:08:INFO:************Login completed**********
+2026-11-2118:54:13:INFO:***********starting add customer test***********
+2026-11-2118:54:17:INFO:******** Test Passed ********
+2026-11-2118:54:20:INFO:******** Search User By Employee Name Started ********
+2026-11-2118:54:29:INFO:******** Login Successful ********
+2026-11-2118:54:36:INFO:******** Test Passed ********
+2026-11-2119:01:57:INFO:********Search user with username started**********
+2026-11-2119:02:06:INFO:************Login completed**********
+2026-11-2119:02:11:INFO:***********starting add customer test***********
+2026-11-2119:02:25:INFO:******** Test Failed ********
+2026-11-2119:02:28:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:02:38:INFO:******** Login Successful ********
+2026-11-2119:02:45:INFO:******** Test Passed ********
+2026-11-2119:05:45:INFO:********Search user with username started**********
+2026-11-2119:05:54:INFO:************Login completed**********
+2026-11-2119:05:59:INFO:***********starting add customer test***********
+2026-11-2119:06:03:INFO:******** Test Passed ********
+2026-11-2119:06:06:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:06:16:INFO:******** Login Successful ********
+2026-11-2119:06:22:INFO:******** Test Failed ********
+2026-11-2119:07:54:INFO:********Search user with username started**********
+2026-11-2119:08:04:INFO:************Login completed**********
+2026-11-2119:08:09:INFO:***********starting add customer test***********
+2026-11-2119:08:12:INFO:******** Test Passed ********
+2026-11-2119:08:15:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:08:24:INFO:******** Login Successful ********
+2026-11-2119:08:31:INFO:******** Test Failed ********
+2026-11-2119:12:09:INFO:********Search user with username started**********
+2026-11-2119:12:56:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:13:12:INFO:******** Login Successful ********
+2026-11-2119:13:19:INFO:******** Test Passed ********
+2026-11-2119:13:48:INFO:********Search user with username started**********
+2026-11-2119:13:57:INFO:************Login completed**********
+2026-11-2119:14:02:INFO:***********starting add customer test***********
+2026-11-2119:14:06:INFO:******** Test Passed ********
+2026-11-2119:14:10:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:14:19:INFO:******** Login Successful ********
+2026-11-2119:14:26:INFO:******** Test Failed ********
+2026-11-2119:16:05:INFO:********Search user with username started**********
+2026-11-2119:16:14:INFO:************Login completed**********
+2026-11-2119:16:19:INFO:***********starting add customer test***********
+2026-11-2119:16:23:INFO:******** Test Passed ********
+2026-11-2119:16:26:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:16:35:INFO:******** Login Successful ********
+2026-11-2119:16:42:INFO:******** Test Passed ********
+2026-11-2119:47:30:INFO:************New Customer started**********
+2026-11-2119:47:34:INFO:************Login completed**********
+2026-11-2119:47:39:INFO:***********starting add customer test***********
+2026-11-2119:47:41:INFO:***********Add new user test***********
+2026-11-2119:47:48:INFO:************TestAdminLogin************
+2026-11-2119:47:48:INFO:************Verification of Title************
+2026-11-2119:47:51:INFO:************Verification of Title title matched************
+2026-11-2119:47:54:INFO:************test_valid_admin_login started************
+2026-11-2119:48:12:INFO:************Dashboard Text Found************
+2026-11-2119:48:15:INFO:************test_invalid_admin_login started************
+2026-11-2119:48:29:INFO:************test_invalid_admin_login error message matched************
+2026-11-2119:48:33:INFO:********Search user with username started**********
+2026-11-2119:48:42:INFO:************Login completed**********
+2026-11-2119:48:47:INFO:***********starting add customer test***********
+2026-11-2119:48:51:INFO:******** Test Passed ********
+2026-11-2119:48:54:INFO:******** Search User By Employee Name Started ********
+2026-11-2119:49:03:INFO:******** Login Successful ********
+2026-11-2119:49:10:INFO:******** Test Failed ********
+2026-11-2119:49:30:INFO:************New Customer started**********
+2026-11-2119:49:37:INFO:************Login completed**********
+2026-11-2119:49:42:INFO:***********starting add customer test***********
+2026-11-2119:49:46:INFO:***********Add new user test***********
+2026-11-2119:49:55:INFO:************test_valid_admin_login started************
+2026-11-2119:50:13:INFO:************Dashboard Text Found************
+2026-11-2119:50:17:INFO:********Search user with username started**********
+2026-11-2119:50:26:INFO:************Login completed**********
+2026-11-2119:50:31:INFO:***********starting add customer test***********
+2026-11-2119:50:35:INFO:******** Test Passed ********
+2026-11-2211:50:25:INFO:************New Customer started**********
+2026-11-2211:50:33:INFO:************Login completed**********
+2026-11-2211:50:38:INFO:***********starting add customer test***********
+2026-11-2211:50:40:INFO:***********Add new user test***********
+2026-11-2211:50:49:INFO:************New Customer started**********
+2026-11-2211:50:54:INFO:************Login completed**********
+2026-11-2211:50:59:INFO:***********starting add customer test***********
+2026-11-2211:51:03:INFO:************test_valid_admin_login started************
+2026-11-2211:51:21:INFO:************Dashboard Text Found************
+2026-11-2211:51:25:INFO:********Search user with username started**********
+2026-11-2211:51:37:INFO:************Login completed**********
+2026-11-2211:51:42:INFO:***********starting add customer test***********
+2026-11-2211:51:48:INFO:******** Test Passed ********
+2026-11-2211:59:17:INFO:************New Customer started**********
+2026-11-2211:59:22:INFO:************Login completed**********
+2026-11-2212:00:02:INFO:************New Customer started**********
+2026-11-2212:00:11:INFO:************Login completed**********
+2026-11-2212:08:10:INFO:************New Customer started**********
+2026-11-2212:08:17:INFO:************Login completed**********
+2026-11-2212:08:22:INFO:***********starting add customer test***********
+2026-11-2212:08:24:INFO:***********Add new user test***********
+2026-11-2212:08:36:INFO:************New Customer started**********
+2026-11-2212:08:42:INFO:************Login completed**********
+2026-11-2212:08:47:INFO:***********starting add customer test***********
+2026-11-2212:08:55:INFO:************test_valid_admin_login started************
+2026-11-2212:09:15:INFO:************Dashboard Text Found************
+2026-11-2212:09:24:INFO:********Search user with username started**********
+2026-11-2212:09:36:INFO:************Login completed**********
+2026-11-2212:09:41:INFO:***********starting add customer test***********
+2026-11-2212:09:46:INFO:******** Test Passed ********
